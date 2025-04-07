@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🔭 I’m currently working on be an excellent backend developer<br>🌱 I’m currently learning Java, Git, Github</h3>
+<h3 align="left">🔭 I'm working hard to become an excellent backend developer<br>🌱 I’m currently learning Java, Git, Github</h3>
 
 ###
 
