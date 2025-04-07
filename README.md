@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🔭 I’m currently working on be an excellent backend developer<br>🌱 I’m currently learning Java, Git, Github<br>📫 How to reach me kadubass@hotmail.com</h3>
+<h3 align="left">🔭 I’m currently working on be an excellent backend developer<br>🌱 I’m currently learning Java, Git, Github</h3>
 
 ###
 
