@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Sobre mim..<br>🔭 I'm working hard to become an excellent backend developer<br>🌱 I’m currently learning Java, Git, Github</h3>
+<h3 align="left">About me..<br>🔭 I'm working hard to become an excellent backend developer<br>🌱 I’m currently learning Java, Git, Github</h3>
 
 ###
 
