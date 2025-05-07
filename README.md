@@ -1,8 +1,8 @@
-<h2 align="left">Hi👋 my name is Ricardo Santos</h2>
+<h1 align="center">Hi👋 my name is Ricardo Santos</h1>
 
 ###
 
-<h3 align="left">🔭 I'm working hard to become an excellent backend developer<br>🌱 I’m currently learning Java, Git, Github</h3>
+<h3 align="center">🔭 I'm working hard to become an excellent backend developer<br>🌱 I’m currently learning Java, Git, Github</h3>
 
 ###
 
