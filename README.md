@@ -26,6 +26,8 @@
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="springboot logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
 
 ###
