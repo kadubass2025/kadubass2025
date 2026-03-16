@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="springboot logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="springboot logo"  />
 </div>
 
 ###
